@@ -1,4 +1,4 @@
-<h1 align="center">Origami LTD</h1>
+<h1 align="center">Origami 限</h1>
 
 <p align="center">
   <strong>Games that refuse to die.</strong><br>
@@ -57,5 +57,5 @@ Keeping this going at a serious pace needs a sponsor, or a partnership with a co
 **Valve** or **GOG**. If that's you: **[lbj.erasmo@gmail.com](mailto:lbj.erasmo@gmail.com)**
 
 <p align="center">
-  <sub>Origami LTD (限) · WebAssembly ports by <strong>Erasmo "ebellumat" Bellumat</strong></sub>
+  <sub>Origami 限 · WebAssembly ports by <strong>Erasmo "ebellumat" Bellumat</strong></sub>
 </p>
